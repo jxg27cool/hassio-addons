@@ -33,7 +33,7 @@ RUN set -ex \
  && pip install \
 	pyasn1 \
         Mopidy-Moped \
-        Mopidy-GMusic \
+        Mopidy-ALSAMixer \
  && apt-get purge --auto-remove -y \
         curl \
         gcc \
