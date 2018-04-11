@@ -6,7 +6,7 @@
     "url": "https://github.com/jxg27cool/hassio-addons/tree/master/mopidy",
     "startup": "application",
     "boot": "auto",
-    "image": "bestlibre/{arch}-mopidy",
+    "image": "jxg27cool/{arch}-mopidy",
     "options": {"local_scan": true,
 	        "options": []},
     "schema": {
